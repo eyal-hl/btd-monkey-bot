@@ -1,0 +1,5 @@
+
+Vpython:S113"@Add a new line at the end of this file "darkCastleDeflation.py".8”É€¹ù.
+Tpython:S139"6Move this trailing comment on the previous empty line.(ñ¡Îâ8”É€¹ù.
+qpython:S1578"aRename this module to match this regular expression: "(([a-z_][a-z0-9_]*)|([A-Z][a-zA-Z0-9]+))$".
+Ipython:S1481&"%Remove the unused local variable "i".(Ùª­‡ÿÿÿÿÿ8”É€¹ù.
